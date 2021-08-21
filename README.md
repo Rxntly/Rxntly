@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rxntly
 - 👀 I’m interested in css/java
-- 🌱 I’m currently learning... something orobably
+- 🌱 I’m currently learning... something probably
 - 💞️ I’m looking to collaborate on a useless NFT project that'll die within a month
 - 📫 How to reach me... Discord! 
 
